@@ -52,7 +52,7 @@ I need to get a job because my cat is a **menace** and eats **way too much**. If
 
 ## 📬 Contact  
 📧 Email: [ioanapasca@hotmail.es](mailto:ioanapasca@hotmail.es)  
-💼 LinkedIn: [Ioana Carmen Pasca](www.linkedin.com/in/ioana-carmen-pasca-bb7b81246)
+💼 LinkedIn: ![Ioana Carmen Pasca](www.linkedin.com/in/ioana-carmen-pasca-bb7b81246)
 
 ---
 
