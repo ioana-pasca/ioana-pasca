@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I am passionate about robotics, artificial intelli
 ---
 
 ## 📌 About Me  
-🎓 **Robotics Software Engineering student** at Universidad Rey Juan Carlos.  
-🚀 **Interests:** Robotics, AI, automation, embedded software, and simulation.  
+🎓 **Robotics Software Engineering student**.  
+🚀 **Interests:** Robotics, AI, automation, embedded software and simulation.  
 
 ---
 
