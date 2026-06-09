@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Ioana  
 ### 🚀 Robotics Software Engineering
 
-Welcome to my GitHub profile! I am passionate about robotics, artificial intelligence, and software development for autonomous systems.
+Welcome to my GitHub profile! I am passionate about robotics, artificial intelligence and software development for autonomous systems.
 
 ---
 
